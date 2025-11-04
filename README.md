@@ -5,17 +5,25 @@
   
 # SRS (Procedure):
 
-◉ Use Case Diagram
 
-◉ Class Diagram
 
-◉ Activity Diagram
+1.Use Case Diagram:
+Shows how users (actors) interact with the system and represents main functions like Login, Register, and Apply for Job.
 
-◉ Package Diagram
+2.Class Diagram:
+Displays the system’s structure using classes, attributes, and methods, showing relationships like inheritance and association.
 
-◉ Communication Diagram
+3.Activity Diagram:
+Represents the flow of activities or processes in the system, explaining how operations proceed step by step.
 
-◉ Sequence Diagram
+4.Communication Diagram:
+Illustrates how different objects exchange messages and interact to complete tasks within the system.
+
+5.Package Diagram:
+Groups related classes or modules into packages to organize the system and reduce complexity.
+
+6.Sequence Diagram:
+Shows the sequence of interactions between objects over time, explaining how processes occur in a specific order.
 
 # DIAGRAMS:
 
